@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22068" started-at="2018-03-22T12:54:59Z" finished-at="2018-03-22T12:55:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22068" started-at="2018-03-22T12:54:59Z" finished-at="2018-03-22T12:55:21Z">
+      <class name="com.datePicker.DateTimePicker">
+        <test-method status="PASS" signature="dateTimePicker()[pri:0, instance:com.datePicker.DateTimePicker@51565ec2]" name="dateTimePicker" duration-ms="22039" started-at="2018-03-22T18:24:59Z" finished-at="2018-03-22T18:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateTimePicker -->
+      </class> <!-- com.datePicker.DateTimePicker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
